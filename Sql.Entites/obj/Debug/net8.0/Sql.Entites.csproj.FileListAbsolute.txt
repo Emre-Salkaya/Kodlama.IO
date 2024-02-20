@@ -1,0 +1,14 @@
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.Entites\bin\Debug\net8.0\Sql.Entites.deps.json
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.Entites\bin\Debug\net8.0\Sql.Entites.dll
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.Entites\bin\Debug\net8.0\Sql.Entites.pdb
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.Entites\obj\Debug\net8.0\Sql.Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.Entites\obj\Debug\net8.0\Sql.Entites.AssemblyInfoInputs.cache
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.Entites\obj\Debug\net8.0\Sql.Entites.AssemblyInfo.cs
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.Entites\obj\Debug\net8.0\Sql.Entites.csproj.CoreCompileInputs.cache
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.Entites\obj\Debug\net8.0\Sql.Entites.dll
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.Entites\obj\Debug\net8.0\refint\Sql.Entites.dll
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.Entites\obj\Debug\net8.0\Sql.Entites.pdb
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.Entites\obj\Debug\net8.0\ref\Sql.Entites.dll
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.Entites\bin\Debug\net8.0\Sql.Entites.runtimeconfig.json
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.Entites\obj\Debug\net8.0\Sql.Entites.csproj.AssemblyReference.cache
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.Entites\obj\Debug\net8.0\Sql.Entites.genruntimeconfig.cache

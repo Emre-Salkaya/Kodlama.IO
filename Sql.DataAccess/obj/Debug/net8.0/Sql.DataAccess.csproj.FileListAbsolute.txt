@@ -1,0 +1,17 @@
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.DataAccess\bin\Debug\net8.0\Sql.DataAccess.deps.json
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.DataAccess\bin\Debug\net8.0\Sql.DataAccess.runtimeconfig.json
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.DataAccess\bin\Debug\net8.0\Sql.DataAccess.dll
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.DataAccess\bin\Debug\net8.0\Sql.DataAccess.pdb
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.DataAccess\bin\Debug\net8.0\Sql.Entites.dll
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.DataAccess\bin\Debug\net8.0\Sql.Entites.pdb
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.DataAccess\obj\Debug\net8.0\Sql.DataAccess.csproj.AssemblyReference.cache
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.DataAccess\obj\Debug\net8.0\Sql.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.DataAccess\obj\Debug\net8.0\Sql.DataAccess.AssemblyInfoInputs.cache
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.DataAccess\obj\Debug\net8.0\Sql.DataAccess.AssemblyInfo.cs
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.DataAccess\obj\Debug\net8.0\Sql.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.DataAccess\obj\Debug\net8.0\Sql.DataAccess.csproj.CopyComplete
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.DataAccess\obj\Debug\net8.0\Sql.DataAccess.dll
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.DataAccess\obj\Debug\net8.0\refint\Sql.DataAccess.dll
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.DataAccess\obj\Debug\net8.0\Sql.DataAccess.pdb
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.DataAccess\obj\Debug\net8.0\Sql.DataAccess.genruntimeconfig.cache
+C:\Users\90552\source\repos\SqlKodlamaIO\Sql.DataAccess\obj\Debug\net8.0\ref\Sql.DataAccess.dll
